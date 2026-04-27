@@ -634,24 +634,5 @@ Through this chapter's learning, we have established a foundational cognitive fr
 
 ---
 
-## 💬 Discussion & Communication
-
-Have questions while learning this chapter? Want to share insights with other learners?
-
-**📝 Visit GitHub Discussions:**
-- [💬 Exercises Discussion & Q&A](https://github.com/datawhalechina/Hello-Agents/discussions)
-- Here you can:
-  - ✅ Ask questions about exercises
-  - ✅ Share your solutions and ideas
-  - ✅ Exchange experiences with other learners
-  - ✅ Get help and feedback from the community
-
-**💡 Tip:** There's also a comment section at the bottom of each page for direct discussion!
-
----
-
-
----
-
 > 📚 **Curator**: Zhihu [@大大大大大芳](https://www.zhihu.com/) | WeChat `hutiefang` | GitHub [@hutiefang76](https://github.com/hutiefang76)
 > 📖 **Original**: Datawhale Hello-Agents Team · Licensed under CC BY-NC-SA 4.0 · For personal learning only

@@ -2374,25 +2374,6 @@ agent.add_tool(ANPTool(...))
 - Prioritize using mature community MCP services to reduce unnecessary redundant development.
 - Choose appropriate protocols based on system scale: A2A is recommended for small-scale collaboration scenarios, while ANP should be used for large-scale network scenarios.
 
-After completing this chapter, it is recommended that you:
-
-1. **Hands-on Practice**:
-   - Build your own MCP server
-   - Create multi-agent collaboration systems using protocols
-   - Combination application strategies for MCP, A2A, and ANP
-2. **In-depth Learning**:
-   - Read MCP official documentation: https://modelcontextprotocol.io
-   - Read A2A official documentation: https://a2a-protocol.org/latest/
-   - Read ANP official documentation: https://agent-network-protocol.com/guide/
-3. **Participate in Community**:
-   - Contribute new MCP services to the community
-   - Share your own developed agent implementation cases
-   - Participate in technical standard discussions for related protocols, or ask questions in Issues or directly help HelloAgents support new example cases
-
-**Congratulations on completing Chapter 10!**
-
-You now have mastered the core knowledge of agent communication protocols. Keep up the good work! 🚀
-
 ## Exercises
 
 > **Note**: Some exercises do not have standard answers. The focus is on cultivating learners' comprehensive understanding and practical ability in agent communication protocols.
