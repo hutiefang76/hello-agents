@@ -163,3 +163,8 @@ cython_debug/
 
 # 忽略各种文件夹下codex AGENRS.md
 AGENTS.md
+# 大大大大大芳整理版 - PDF 构建中间产物
+_combined.md
+_combined.html
+_book.css
+_apply_watermark.py

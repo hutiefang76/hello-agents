@@ -15,7 +15,7 @@
           <strong>微信</strong> <code>hutiefang</code> &nbsp;·&nbsp;
           <strong>GitHub</strong> <a href="https://github.com/hutiefang76">hutiefang76</a>
         </p>
-        <p><em>本仓库基于 Datawhale 开源教程二次整理学习，遵循 CC BY-NC-SA 4.0 协议。</em></p>
+        <p><em>整理自互联网公开学习资料，仅供个人学习交流。</em></p>
       </td>
     </tr>
   </table>
@@ -37,21 +37,21 @@
 
 ## 🎯 项目介绍
 
-&emsp;&emsp;如果说 2024 年是"百模大战"的元年，那么 2025 年无疑开启了"Agent 元年"。技术的焦点正从训练更大的基础模型，转向构建更聪明的智能体应用。然而，当前系统性、重实践的教程却极度匮乏。为此，我们发起了 Hello-Agents 项目，希望能为社区提供一本从零开始、理论与实战并重的智能体系统构建指南。
+&emsp;&emsp;如果说 2024 年是"百模大战"的元年，那么 2025 年无疑开启了"Agent 元年"。技术的焦点正从训练更大的基础模型，转向构建更聪明的智能体应用。然而，当前系统性、重实践的教程却极度匮乏。本仓库整理自互联网公开学习资料，提供一本从零开始、理论与实战并重的智能体系统构建指南。
 
-&emsp;&emsp;Hello-Agents 是 Datawhale 社区的<strong>系统性智能体学习教程</strong>。如今 Agent 构建主要分为两派，一派是 Dify，Coze，n8n 这类软件工程类 Agent，其本质是流程驱动的软件开发，LLM 作为数据处理的后端；另一派则是 AI 原生的 Agent，即真正以 AI 驱动的 Agent。本教程旨在带领大家深入理解并构建后者——真正的 AI Native Agent。教程将带领你穿透框架表象，从智能体的核心原理出发，深入其核心架构，理解其经典范式，并最终亲手构建起属于自己的多智能体应用。我们相信，最好的学习方式就是动手实践。希望这本教程能成为你探索智能体世界的起点，能够从一名大语言模型的"使用者"，蜕变为一名智能体系统的"构建者"。
+&emsp;&emsp;本仓库是一份<strong>系统性智能体学习整理资料</strong>。如今 Agent 构建主要分为两派，一派是 Dify，Coze，n8n 这类软件工程类 Agent，其本质是流程驱动的软件开发，LLM 作为数据处理的后端；另一派则是 AI 原生的 Agent，即真正以 AI 驱动的 Agent。本资料旨在带领大家深入理解并构建后者——真正的 AI Native Agent，从智能体的核心原理出发，深入其核心架构，理解其经典范式，并最终亲手构建起属于自己的多智能体应用。希望这份整理能成为你探索智能体世界的起点，从一名大语言模型的"使用者"，蜕变为一名智能体系统的"构建者"。
 
 ## 📚 快速开始
 
 ### 在线阅读
-**[🌐 国外访问](https://datawhalechina.github.io/hello-agents/)** | **[🚀 国内加速](https://hello-agents.datawhale.cc)** - 无需下载，随时随地学习
+本仓库已包含全部 Markdown 章节，clone 后即可本地阅读，无需联网。
 
 ### 本地阅读
 如果您希望在本地阅读或贡献内容，请参考下方的学习指南。
 
 ### ✨ 你将收获什么？
 
-- 📖 <strong>Datawhale 开源免费</strong> 完全免费学习本项目所有内容，与社区共同成长
+- 📖 <strong>免费学习</strong> 完全免费学习本仓库整理的全部内容
 - 🔍 <strong>理解核心原理</strong> 深入理解智能体的概念、历史与经典范式
 - 🏗️ <strong>亲手实现</strong> 掌握热门低代码平台和智能体代码框架的使用
 - 🛠️ <strong>自研框架[HelloAgents](https://github.com/jjyaoao/helloagents)</strong> 基于 Openai 原生 API 从零构建一个自己的智能体框架
@@ -87,30 +87,20 @@
 | <strong>第五部分：毕业设计及未来展望</strong>                                               |                                               |      |
 | [第十六章 毕业设计](./docs/chapter16/第十六章%20毕业设计.md)                                | 构建属于你的完整多智能体应用                  | ✅    |
 
-### 社区贡献精选 (Community Blog)
+### 扩展阅读
 
-&emsp;&emsp;欢迎大家将在学习 Hello-Agents 或 Agent 相关技术中的独到见解、实践总结，以 PR 的形式贡献到社区精选。如果是独立于正文的内容，也可以投稿至 Extra-Chapter！<strong>期待你的第一次贡献！</strong>
-
-| 社区精选                                                                                                                                      | 内容总结                  |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [00-共创毕业设计](https://github.com/datawhalechina/hello-agents/blob/main/Co-creation-projects)                                             | 社区共创毕业设计项目      |
-| [01-Agent面试题总结](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra01-面试问题总结.md)                          | Agent 岗位相关面试问题    |
-| [01-Agent面试题答案](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra01-参考答案.md)                              | 相关面试问题答案          |
-| [02-上下文工程内容补充](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra02-上下文工程补充知识.md)                 | 上下文工程内容扩展        |
-| [03-Dify智能体创建保姆级教程](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra03-Dify智能体创建保姆级操作流程.md) | Dify智能体创建保姆级教程  |
-| [04-Hello-agents课程常见问题](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra04-DatawhaleFAQ.md)                 | Datawhale课程常见问题     |
-| [05-Agent Skills与MCP对比解读](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra05-AgentSkills解读.md)             | Agent Skills与MCP技术对比 |
-| [06-GUI Agent科普与实战](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra06-GUIAgent科普与实战.md)                | GUI Agent科普与多场景实战 |
-| [07-环境配置](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra07-环境配置.md)                | 环境配置 |
-| [08-如何写出好的Skill](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra08-如何写出好的Skill.md) | Skill 写作最佳实践 |
-| [09-Agent应用开发实践踩坑与经验分享](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra09-Agent应用开发实践踩坑与经验分享.md) | Code Agent 应用开发踩坑与经验总结 |
-
-### PDF 版本下载
-
-&emsp;&emsp;*<strong>本 Hello-Agents PDF 教程完全开源免费。为防止各类营销号加水印后贩卖给多智能体系统初学者，我们特地在 PDF 文件中预先添加了不影响阅读的 Datawhale 开源标志水印，敬请谅解～</strong>*
-
-> *Hello-Agents PDF : https://github.com/datawhalechina/hello-agents/releases/tag/V1.0.0*  
-> *Hello-Agents PDF 国内下载地址 : https://www.datawhale.cn/learn/summary/239* 
+| 扩展资料                                                              | 内容总结                  |
+| --------------------------------------------------------------------- | ------------------------- |
+| [01-Agent面试题总结](./Extra-Chapter/Extra01-面试问题总结.md)         | Agent 岗位相关面试问题    |
+| [01-Agent面试题答案](./Extra-Chapter/Extra01-参考答案.md)             | 相关面试问题答案          |
+| [02-上下文工程内容补充](./Extra-Chapter/Extra02-上下文工程补充知识.md) | 上下文工程内容扩展        |
+| [03-Dify智能体创建保姆级教程](./Extra-Chapter/Extra03-Dify智能体创建保姆级操作流程.md) | Dify智能体创建保姆级教程  |
+| [04-常见问题](./Extra-Chapter/Extra04-DatawhaleFAQ.md)                | 学习常见问题              |
+| [05-Agent Skills与MCP对比解读](./Extra-Chapter/Extra05-AgentSkills解读.md) | Agent Skills与MCP技术对比 |
+| [06-GUI Agent科普与实战](./Extra-Chapter/Extra06-GUIAgent科普与实战.md) | GUI Agent科普与多场景实战 |
+| [07-环境配置](./Extra-Chapter/Extra07-环境配置.md)                    | 环境配置 |
+| [08-如何写出好的Skill](./Extra-Chapter/Extra08-如何写出好的Skill.md)  | Skill 写作最佳实践 |
+| [09-Agent应用开发实践踩坑与经验分享](./Extra-Chapter/Extra09-Agent应用开发实践踩坑与经验分享.md) | Code Agent 应用开发踩坑与经验总结 |
 
 ## 💡 如何学习
 
@@ -131,51 +121,9 @@
 - <strong>第五部分：毕业设计及未来展望</strong>（第十六章），在旅程的终点，你将迎来一个毕业设计，构建一个完整的、属于你自己的多智能体应用，全面检验你的学习成果。我们还将与你一同展望智能体的未来，探索激动人心的前沿方向。
 
 
-&emsp;&emsp;智能体是一个飞速发展且极度依赖实践的领域。为了获得最佳的学习效果，我们在项目的`code`文件夹内提供了配套的全部代码，强烈建议你<strong>将理论与实践相结合</strong>。请务必亲手运行、调试甚至修改项目里提供的每一份代码。欢迎你随时关注 Datawhale 以及其他 Agent 相关社区，当遇到问题时，你可以随时在本项目的 issue 区提问。
+&emsp;&emsp;智能体是一个飞速发展且极度依赖实践的领域。为了获得最佳的学习效果，本仓库的`code`文件夹内提供了配套的全部代码，强烈建议你<strong>将理论与实践相结合</strong>。请务必亲手运行、调试甚至修改提供的每一份代码。
 
 &emsp;&emsp;现在，准备好进入智能体的奇妙世界了吗？让我们即刻启程！
-
-## 下一步规划
-
-- 视频课程陆续放出（将会更加细致，实践课带领大家从设计思路到实施，授人以鱼也授人以渔）
-- HelloAgents框架已经更新V1.0.0版本，将会继续完善，增加更多好用，轻量化的工具和特性，兼容学习版本。
-- 感谢大家助力3W Star! 之后将会提供调查问卷，供大家填写自己需要学习的智能体训练内容。后续作品《从零开始训练智能体》，帮助每一个学习者掌握从零到一训练自定义场景智能体模型的能力。
-
-## 🤝 如何贡献
-
-我们是一个开放的开源社区，欢迎任何形式的贡献！
-
-- 🐛 <strong>报告 Bug</strong> - 发现内容或代码问题，请提交 Issue
-- 💡 <strong>提出建议</strong> - 对项目有好想法，欢迎发起讨论
-- 📝 <strong>完善内容</strong> - 帮助改进教程，提交你的 Pull Request
-- ✍️ <strong>分享实践</strong> - 在"社区贡献精选"中分享你的学习笔记和项目
-
-## 🙏 致谢
-
-### 核心贡献者
-- [陈思州-项目负责人](https://github.com/jjyaoao) (Datawhale 成员, 全文写作和校对)
-- [孙韬-联合发起者](https://github.com/fengju0213) (Datawhale 成员、CAMEL-AI, 第九章内容和校对)  
-- [姜舒凡-联合发起者](https://github.com/Tsumugii24)（Datawhale 成员, 章节习题设计和校对）
-- [黄佩林-Datawhale意向成员](https://github.com/HeteroCat) (Agent 开发工程师, 第五章内容贡献者)
-- [曾鑫民-Agent工程师](https://github.com/fancyboi999) (牛客科技, 第十四章案例开发)
-- [朱信忠-指导专家](https://xinzhongzhu.github.io/) (Datawhale首席科学家-浙江师范大学杭州人工智能研究院教授)
-### Extra-Chapter 贡献者
-- [WH](https://github.com/WHQAQ11) (内容贡献者)
-- [周奥杰-DW贡献者团队](https://github.com/thunderbolt-fire) (西安交通大学, Extra02 内容贡献)
-- [张宸旭-个人开发者](https://github.com/Tasselszcx)(帝国理工学院, Extra03 内容贡献)
-- [黄宏晗-DW贡献者团队](https://github.com/XiaoMa-PM) (深圳大学, Extra04 内容贡献)
-- [王大鹏-Datawhale成员](https://github.com/ditingdapeng) (高级研发工程师, Extra08 内容贡献)
-- [尤逸晖-个人开发者](https://github.com/YYHDBL) (南京信息工程大学, Extra09 内容贡献)
-
-### 特别感谢
-- 感谢 [@Sm1les](https://github.com/Sm1les) 对本项目的帮助与支持
-- 感谢所有为本项目做出贡献的开发者们 ❤️
-
-<div align=center style="margin-top: 30px;">
-  <a href="https://github.com/datawhalechina/Hello-Agents/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=datawhalechina/Hello-Agents" />
-  </a>
-</div>
 
 <div align="center">
   <p>⭐ 如果这份学习整理对你有帮助，欢迎 Star！</p>
@@ -183,9 +131,11 @@
 
 ---
 
-## 📜 开源协议
+## 📜 使用声明
 
-本作品基于 Datawhale Hello-Agents 项目二次学习整理，原项目采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)。本仓库延续相同协议。
+**仅供个人学习交流，请勿外传**
+
+本仓库整理自互联网公开学习资料，仅作个人学习笔记之用。请勿用于任何商业用途、公开转载、二次发布或对外传播。下载本资料即表示同意本声明。
 
 ---
 
@@ -210,6 +160,6 @@
   </tr>
 </table>
 
-<sub>原作者：Datawhale Hello-Agents 团队 · 致谢：陈思州 / 孙韬 / 姜舒凡 / 黄佩林 / 曾鑫民 / 朱信忠 等</sub>
+<sub>整理自互联网公开学习资料 · 仅供个人学习交流，非商业用途</sub>
 
 </div>
