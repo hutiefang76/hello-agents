@@ -1355,3 +1355,8 @@ In the next chapter, we will enter the core content of this tutorial, building o
 
 [5] Microsoft. AutoGen - UserProxyAgent [EB/OL]. (2024). https://microsoft.github.io/autogen/stable/reference/python/autogen_agentchat.agents.html#autogen_agentchat.agents.UserProxyAgent.
 
+
+---
+
+> 📚 **Curator**: Zhihu [@大大大大大芳](https://www.zhihu.com/) | WeChat `hutiefang` | GitHub [@hutiefang76](https://github.com/hutiefang76)
+> 📖 **Original**: Datawhale Hello-Agents Team · Licensed under CC BY-NC-SA 4.0 · For personal learning only

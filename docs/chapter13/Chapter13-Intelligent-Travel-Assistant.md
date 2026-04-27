@@ -1579,3 +1579,8 @@ The best way to learn is through practice. Don't just read the code - modify, ex
 
 Wishing you success on your journey in AI application development!
 
+
+---
+
+> 📚 **Curator**: Zhihu [@大大大大大芳](https://www.zhihu.com/) | WeChat `hutiefang` | GitHub [@hutiefang76](https://github.com/hutiefang76)
+> 📖 **Original**: Datawhale Hello-Agents Team · Licensed under CC BY-NC-SA 4.0 · For personal learning only

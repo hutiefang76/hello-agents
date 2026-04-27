@@ -2439,3 +2439,8 @@ You now have mastered the core knowledge of agent communication protocols. Keep 
 
 [3] Chang, G., Lin, E., Yuan, C., Cai, R., Chen, B., Xie, X., & Zhang, Y. (2025). *Agent Network Protocol technical white paper*. arXiv. https://doi.org/10.48550/arXiv.2508.00007
 
+
+---
+
+> 📚 **Curator**: Zhihu [@大大大大大芳](https://www.zhihu.com/) | WeChat `hutiefang` | GitHub [@hutiefang76](https://github.com/hutiefang76)
+> 📖 **Original**: Datawhale Hello-Agents Team · Licensed under CC BY-NC-SA 4.0 · For personal learning only

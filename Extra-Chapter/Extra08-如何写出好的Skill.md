@@ -743,3 +743,9 @@ scripts/quick_validate.py <path/to/skill-folder>
 ```
 
 **Skill是给 AI 写指令，而不是给人。用最少的 token，在正确的层级，给 AI 最精准的约束，让它在边界内自由发挥。**
+
+
+---
+
+> 📚 **整理者**：知乎 [@大大大大大芳](https://www.zhihu.com/) ｜ 微信 `hutiefang` ｜ GitHub [@hutiefang76](https://github.com/hutiefang76)
+> 📖 **原作**：Datawhale Hello-Agents 团队 · 协议 CC BY-NC-SA 4.0 · 仅供个人学习交流

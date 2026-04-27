@@ -837,3 +837,9 @@ Agent Skills 和 MCP 代表了智能体技术栈中两个关键的抽象层：
 3. Model Context Protocol 规范：https://modelcontextprotocol.io/
 4. Anthropic 博客：Improving Frontend Design Through Skills：https://www.claude.com/blog/improving-frontend-design-through-skills
 5. 第十章：智能体通信协议（hello-agents）
+
+
+---
+
+> 📚 **整理者**：知乎 [@大大大大大芳](https://www.zhihu.com/) ｜ 微信 `hutiefang` ｜ GitHub [@hutiefang76](https://github.com/hutiefang76)
+> 📖 **原作**：Datawhale Hello-Agents 团队 · 协议 CC BY-NC-SA 4.0 · 仅供个人学习交流

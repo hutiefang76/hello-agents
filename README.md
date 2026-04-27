@@ -2,21 +2,35 @@
   <a href="./README_EN.md">English</a> | 中文
 </div>
 
+<!-- ============================== -->
+<!--  📚 大大大大大芳 · 学习整理版    -->
+<!-- ============================== -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100%" style="padding:24px;">
+        <h2>📖 Hello-Agents · 大大大大大芳 学习整理版</h2>
+        <p>
+          <strong>知乎</strong> <a href="https://www.zhihu.com/">@大大大大大芳</a> &nbsp;·&nbsp;
+          <strong>微信</strong> <code>hutiefang</code> &nbsp;·&nbsp;
+          <strong>GitHub</strong> <a href="https://github.com/hutiefang76">hutiefang76</a>
+        </p>
+        <p><em>本仓库基于 Datawhale 开源教程二次整理学习，遵循 CC BY-NC-SA 4.0 协议。</em></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <div align='center'>
-  <img src="./docs/images/hello-agents.png" alt="alt text" width="100%">
+  <img src="./docs/images/hello-agents.png" alt="hello-agents" width="100%">
   <h1>Hello-Agents</h1>
   <h3>🤖 《从零开始构建智能体》</h3>
-  <div align="center">
-  <a href="https://trendshift.io/repositories/15520" target="_blank">
-    <img src="https://trendshift.io/api/badge/repositories/15520" alt="datawhalechina%2Fhello-agents | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
-  </a>
-  </div>
   <p><em>从基础理论到实际应用，全面掌握智能体系统的设计与实现</em></p>
-  <img src="https://img.shields.io/github/stars/datawhalechina/Hello-Agents?style=flat&logo=github" alt="GitHub stars"/>
-  <img src="https://img.shields.io/github/forks/datawhalechina/Hello-Agents?style=flat&logo=github" alt="GitHub forks"/>
+  <img src="https://img.shields.io/github/stars/hutiefang76/hello-agents?style=flat&logo=github" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/forks/hutiefang76/hello-agents?style=flat&logo=github" alt="GitHub forks"/>
   <img src="https://img.shields.io/badge/language-Chinese-brightgreen?style=flat" alt="Language"/>
-  <a href="https://github.com/datawhalechina/Hello-Agents"><img src="https://img.shields.io/badge/GitHub-Project-blue?style=flat&logo=github" alt="GitHub Project"></a>
-  <a href="https://datawhalechina.github.io/hello-agents/"><img src="https://img.shields.io/badge/在线阅读-Online%20Reading-green?style=flat&logo=gitbook" alt="Online Reading"></a>
+  <img src="https://img.shields.io/badge/整理-知乎@大大大大大芳-orange?style=flat" alt="curator"/>
+  <a href="https://github.com/hutiefang76/hello-agents"><img src="https://img.shields.io/badge/GitHub-我的整理版-blue?style=flat&logo=github" alt="GitHub Project"></a>
 </div>
 
 ---
@@ -163,32 +177,39 @@
   </a>
 </div>
 
-## Star History
-
-<div align='center'>
-    <img src="./docs/images/star-history-2026324.png" alt="Datawhale" width="90%">
-</div>
-
 <div align="center">
-  <p>⭐ 如果这个项目对你有帮助，请给我们一个 Star！</p>
-</div>
-
-## 读者交流群
-
-<div align='center'>
-    <img src="./读者群二维码.png" alt="读者群二维码" width="30%">
-    <p>扫描二维码加入读者交流群，与更多学习者交流讨论</p>
-</div>
-
-## 关于 Datawhale
-
-<div align='center'>
-    <img src="./docs/images/datawhale.png" alt="Datawhale" width="30%">
-    <p>扫描二维码关注 Datawhale 公众号，获取更多优质开源内容</p>
+  <p>⭐ 如果这份学习整理对你有帮助，欢迎 Star！</p>
 </div>
 
 ---
 
 ## 📜 开源协议
 
-本作品采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。
+本作品基于 Datawhale Hello-Agents 项目二次学习整理，原项目采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)。本仓库延续相同协议。
+
+---
+
+<div align="center">
+
+### 📌 关于本整理版
+
+本仓库由 **知乎@大大大大大芳** 整理学习，仅用于个人学习交流，非商业用途。
+
+<table>
+  <tr>
+    <td align="center"><strong>知乎</strong></td>
+    <td>@大大大大大芳</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>微信</strong></td>
+    <td><code>hutiefang</code></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>GitHub</strong></td>
+    <td><a href="https://github.com/hutiefang76">hutiefang76</a></td>
+  </tr>
+</table>
+
+<sub>原作者：Datawhale Hello-Agents 团队 · 致谢：陈思州 / 孙韬 / 姜舒凡 / 黄佩林 / 曾鑫民 / 朱信忠 等</sub>
+
+</div>

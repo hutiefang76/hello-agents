@@ -2198,3 +2198,9 @@ async def test_parallel_execution():
    - 首先为 `HelloAgents` 添加一个"流式输出"功能，使得 `Agent` 在生成响应时能够实时返回中间结果（类似 `ChatGPT` 用户界面的打字效果）。请设计这个功能的实现方案，说明需要修改哪些类和方法。
    - 然后为框架添加"多轮对话管理"功能，能够自动管理对话历史、支持对话分支和回溯，你会如何设计？需要新增哪些类？如何与现有的 `Message` 系统集成？
    - 最后请为 `HelloAgents` 设计一个"插件系统"，允许第三方开发者通过插件的方式扩展框架功能（如添加新的 `Agent` 类型、新的工具类型等），而无需修改框架核心代码。要求画出插件系统的架构图并说明关键接口。
+
+
+---
+
+> 📚 **整理者**：知乎 [@大大大大大芳](https://www.zhihu.com/) ｜ 微信 `hutiefang` ｜ GitHub [@hutiefang76](https://github.com/hutiefang76)
+> 📖 **原作**：Datawhale Hello-Agents 团队 · 协议 CC BY-NC-SA 4.0 · 仅供个人学习交流

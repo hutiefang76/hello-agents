@@ -2,21 +2,35 @@
   English | <a href="./README.md">中文</a>
 </div>
 
+<!-- ============================== -->
+<!--  📚 Curated by 大大大大大芳    -->
+<!-- ============================== -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100%" style="padding:24px;">
+        <h2>📖 Hello-Agents · Curated Edition by 大大大大大芳</h2>
+        <p>
+          <strong>Zhihu</strong> <a href="https://www.zhihu.com/">@大大大大大芳</a> &nbsp;·&nbsp;
+          <strong>WeChat</strong> <code>hutiefang</code> &nbsp;·&nbsp;
+          <strong>GitHub</strong> <a href="https://github.com/hutiefang76">hutiefang76</a>
+        </p>
+        <p><em>Personal study fork based on Datawhale's open-source tutorial, under CC BY-NC-SA 4.0.</em></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <div align='center'>
-  <img src="./docs/images/hello-agents.png" alt="alt text" width="100%">
+  <img src="./docs/images/hello-agents.png" alt="hello-agents" width="100%">
   <h1>Hello-Agents</h1>
   <h3>🤖 "Building Agent Systems from Scratch"</h3>
-  <div align="center">
-  <a href="https://trendshift.io/repositories/15520" target="_blank">
-    <img src="https://trendshift.io/api/badge/repositories/15520" alt="datawhalechina%2Fhello-agents | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
-  </a>
-  </div>
   <p><em>From foundational theory to practical applications, master the design and implementation of agent systems</em></p>
-  <img src="https://img.shields.io/github/stars/datawhalechina/Hello-Agents?style=flat&logo=github" alt="GitHub stars"/>
-  <img src="https://img.shields.io/github/forks/datawhalechina/Hello-Agents?style=flat&logo=github" alt="GitHub forks"/>
+  <img src="https://img.shields.io/github/stars/hutiefang76/hello-agents?style=flat&logo=github" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/forks/hutiefang76/hello-agents?style=flat&logo=github" alt="GitHub forks"/>
   <img src="https://img.shields.io/badge/language-English-brightgreen?style=flat" alt="Language"/>
-  <a href="https://github.com/datawhalechina/Hello-Agents"><img src="https://img.shields.io/badge/GitHub-Project-blue?style=flat&logo=github" alt="GitHub Project"></a>
-  <a href="https://datawhalechina.github.io/hello-agents/"><img src="https://img.shields.io/badge/Online%20Reading-green?style=flat&logo=gitbook" alt="Online Reading"></a>
+  <img src="https://img.shields.io/badge/curated_by-Zhihu@大大大大大芳-orange?style=flat" alt="curator"/>
+  <a href="https://github.com/hutiefang76/hello-agents"><img src="https://img.shields.io/badge/GitHub-MyEdition-blue?style=flat&logo=github" alt="GitHub Project"></a>
 </div>
 
 ---
@@ -157,33 +171,40 @@ We are an open-source community and welcome any form of contribution!
   </a>
 </div>
 
-## Star History
-
-<div align='center'>
-    <img src="./docs/images/star-history-2026324.png" alt="Datawhale" width="90%">
-</div>
-
 <div align="center">
-  <p>⭐ If this project helps you, please give us a Star!</p>
-</div>
-
-## Reader Community Group
-
-<div align='center'>
-	<img src="https://raw.githubusercontent.com/datawhalechina/Hello-Agents/main/读者群二维码.png" alt="阅读群额码" width="30%">
-	<p>Scan the QR code to join the reader community group and discuss with more learners</p>
-</div>
-
-## About Datawhale
-
-<div align='center'>
-    <img src="./docs/images/datawhale.png" alt="Datawhale" width="30%">
-    <p>Scan the QR code to follow the Datawhale official account and get more high-quality open source content</p>
+  <p>⭐ If this curated edition helps you, please give it a Star!</p>
 </div>
 
 ---
 
 ## 📜 Open Source License
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+This work is a personal study fork of the Datawhale Hello-Agents project, originally licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). This fork inherits the same license.
+
+---
+
+<div align="center">
+
+### 📌 About This Edition
+
+This repository is curated by **Zhihu @大大大大大芳** for personal learning and non-commercial educational sharing.
+
+<table>
+  <tr>
+    <td align="center"><strong>Zhihu</strong></td>
+    <td>@大大大大大芳</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>WeChat</strong></td>
+    <td><code>hutiefang</code></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>GitHub</strong></td>
+    <td><a href="https://github.com/hutiefang76">hutiefang76</a></td>
+  </tr>
+</table>
+
+<sub>Original authors: Datawhale Hello-Agents team · Credits: Chen Sizhou / Sun Tao / Jiang Shufan / Huang Peilin / Zeng Xinmin / Zhu Xinzhong et al.</sub>
+
+</div>
 

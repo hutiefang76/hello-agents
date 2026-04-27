@@ -431,3 +431,9 @@
 2. 高德开放平台. https://console.amap.com/dev/index
 
 3. sjkflw121150. Dify搭建AI图片生成助手中的坑！. CSDN博客. https://blog.csdn.net/sjkflw121150/article/details/148480867#:~:text=3.-,%E8%B0%83%E7%94%A8Doubao%E6%96%87%E7%94%9F%E5%9B%BE%E5%B7%A5%E5%85%B7,-%E8%B0%83%E7%94%A8%20Doubao
+
+
+---
+
+> 📚 **整理者**：知乎 [@大大大大大芳](https://www.zhihu.com/) ｜ 微信 `hutiefang` ｜ GitHub [@hutiefang76](https://github.com/hutiefang76)
+> 📖 **原作**：Datawhale Hello-Agents 团队 · 协议 CC BY-NC-SA 4.0 · 仅供个人学习交流

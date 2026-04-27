@@ -1879,3 +1879,9 @@ However, AI NPCs also face some challenges. First is the cost issue - each conve
 Despite these challenges, the future of AI NPCs remains full of promise. As LLM technology develops, inference speed will become faster and costs will become lower. Localized small LLMs are also developing rapidly - in the future, they may be able to run directly on players' devices, requiring no network requests at all. The combination of AI technology and games will bring players unprecedented experiences.
 
 In Part 5's graduation project chapter, we will learn how to construct general agents using single agents and multi-agents - this will be your creative time, so stay tuned!
+
+
+---
+
+> 📚 **Curator**: Zhihu [@大大大大大芳](https://www.zhihu.com/) | WeChat `hutiefang` | GitHub [@hutiefang76](https://github.com/hutiefang76)
+> 📖 **Original**: Datawhale Hello-Agents Team · Licensed under CC BY-NC-SA 4.0 · For personal learning only

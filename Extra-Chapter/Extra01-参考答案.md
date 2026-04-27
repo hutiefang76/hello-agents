@@ -2342,3 +2342,9 @@
     * <strong>A/B测试：</strong> 在上线新版本的模型或Agent逻辑时，使用A/B测试框架，小流量验证新版本的性能是否优于旧版本，确保每次迭代都是正向的。
 
     通过建立这样一个“<strong>采集 -> 监控 -> 分析 -> 迭代</strong>”的闭环，我们可以主动地管理和维护线上服务的质量，而不是被动地等待用户投诉。
+
+
+---
+
+> 📚 **整理者**：知乎 [@大大大大大芳](https://www.zhihu.com/) ｜ 微信 `hutiefang` ｜ GitHub [@hutiefang76](https://github.com/hutiefang76)
+> 📖 **原作**：Datawhale Hello-Agents 团队 · 协议 CC BY-NC-SA 4.0 · 仅供个人学习交流

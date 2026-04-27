@@ -300,3 +300,9 @@ $env:HF_ENDPOINT = "https://hf-mirror.com"
     - 遇到哪些问题（比如上下文过长、调用成本等）以及你是怎么应对的。
 
 ---
+
+
+---
+
+> 📚 **整理者**：知乎 [@大大大大大芳](https://www.zhihu.com/) ｜ 微信 `hutiefang` ｜ GitHub [@hutiefang76](https://github.com/hutiefang76)
+> 📖 **原作**：Datawhale Hello-Agents 团队 · 协议 CC BY-NC-SA 4.0 · 仅供个人学习交流

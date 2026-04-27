@@ -2690,3 +2690,8 @@ We hope this chapter helps you understand and master Agentic RL technology, appl
    - Tool use often involves complex dependencies (such as "must first call tool A to obtain information before calling tool B"). Please design a "hierarchical reinforcement learning" plan: high-level policy responsible for task planning, low-level policy responsible for tool invocation. How to train this hierarchical structure? How to coordinate optimization objectives of high and low levels?
    - In practical applications, the number of tools may be very large (such as 50+ APIs), and direct training may face "low exploration efficiency" problems. Please design a "curriculum learning" plan: start training from simple tasks (using few tools), gradually increasing task difficulty and number of tools. How should this plan design curriculum sequence? How to assess whether agents are ready to enter the next stage?
 
+
+---
+
+> 📚 **Curator**: Zhihu [@大大大大大芳](https://www.zhihu.com/) | WeChat `hutiefang` | GitHub [@hutiefang76](https://github.com/hutiefang76)
+> 📖 **Original**: Datawhale Hello-Agents Team · Licensed under CC BY-NC-SA 4.0 · For personal learning only

@@ -2154,3 +2154,8 @@ This knowledge is not only applicable to deep research assistants, but can also 
 
 In the next chapter, we will build a multi-agent system combined with a game engine - Cyber Town, exploring complex interaction and collaboration patterns between Agents. Stay tuned!
 
+
+---
+
+> 📚 **Curator**: Zhihu [@大大大大大芳](https://www.zhihu.com/) | WeChat `hutiefang` | GitHub [@hutiefang76](https://github.com/hutiefang76)
+> 📖 **Original**: Datawhale Hello-Agents Team · Licensed under CC BY-NC-SA 4.0 · For personal learning only

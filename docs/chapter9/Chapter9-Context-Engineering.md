@@ -2810,3 +2810,8 @@ In the next chapter, we will explore agent communication protocols and learn how
 
 [2] David Kim. Context-Engineering (GitHub). `https://github.com/davidkimai/Context-Engineering`
 
+
+---
+
+> 📚 **Curator**: Zhihu [@大大大大大芳](https://www.zhihu.com/) | WeChat `hutiefang` | GitHub [@hutiefang76](https://github.com/hutiefang76)
+> 📖 **Original**: Datawhale Hello-Agents Team · Licensed under CC BY-NC-SA 4.0 · For personal learning only

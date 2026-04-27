@@ -649,3 +649,9 @@ Have questions while learning this chapter? Want to share insights with other le
 **💡 Tip:** There's also a comment section at the bottom of each page for direct discussion!
 
 ---
+
+
+---
+
+> 📚 **Curator**: Zhihu [@大大大大大芳](https://www.zhihu.com/) | WeChat `hutiefang` | GitHub [@hutiefang76](https://github.com/hutiefang76)
+> 📖 **Original**: Datawhale Hello-Agents Team · Licensed under CC BY-NC-SA 4.0 · For personal learning only

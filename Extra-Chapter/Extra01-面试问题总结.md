@@ -140,3 +140,9 @@
 6.  对于想要进入Agent领域的初学者，你会给他/她什么建议？应该重点学习哪些技术？
 7.  总结一下，你认为一个顶尖的AI Agent工程师，应该具备哪些核心素质？
 8.  平常使用AI吗，都用来干嘛？如果我想使用AI，比如coding领域，你有何建议给我？
+
+
+---
+
+> 📚 **整理者**：知乎 [@大大大大大芳](https://www.zhihu.com/) ｜ 微信 `hutiefang` ｜ GitHub [@hutiefang76](https://github.com/hutiefang76)
+> 📖 **原作**：Datawhale Hello-Agents 团队 · 协议 CC BY-NC-SA 4.0 · 仅供个人学习交流

@@ -42,3 +42,8 @@ Finally, as an open-source project, we warmly welcome your participation and con
 
 Thank you for choosing to read Hello-Agents. We wish you happy learning and unlimited exploration!
 
+
+---
+
+> 📚 **Curator**: Zhihu [@大大大大大芳](https://www.zhihu.com/) | WeChat `hutiefang` | GitHub [@hutiefang76](https://github.com/hutiefang76)
+> 📖 **Original**: Datawhale Hello-Agents Team · Licensed under CC BY-NC-SA 4.0 · For personal learning only
